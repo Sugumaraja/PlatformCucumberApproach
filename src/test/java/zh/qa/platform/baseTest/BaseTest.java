@@ -2,13 +2,10 @@ package zh.qa.platform.baseTest;
 
 import java.util.Properties;
 
+import org.openqa.selenium.WebDriver;
+
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
-import org.openqa.selenium.WebDriver;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Parameters;
-
 import zh.qa.platform.driverfactory.DriverFactory;
 import zh.qa.platform.pages.LoginPage;
 
@@ -17,7 +14,7 @@ public class BaseTest {
 	protected DriverFactory df;
 	protected LoginPage logpage;
 	protected Properties prop;
-	private String browserName=null;
+//	private String browserName=null;
 
 //	@Parameters({ "browser" })
 //	@BeforeTest
