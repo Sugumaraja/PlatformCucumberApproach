@@ -1,0 +1,10 @@
+# Created at 2024-06-01T20:46:13.956
+Boot Manifest-JAR contains absolute paths in classpath 'D:\blueBrix UI Automation\PlatformblueBrix\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
+# Created at 2024-06-01T20:46:13.956
+Boot Manifest-JAR contains absolute paths in classpath 'D:\blueBrix UI Automation\PlatformblueBrix\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
